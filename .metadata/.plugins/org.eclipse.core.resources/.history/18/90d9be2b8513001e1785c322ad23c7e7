@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+/**
+ * @author DELL
+ *
+ */
+module AimsProject {
+	requires java.desktop;
+	requires javafx.graphics;
+	requires java.naming;
+	requires javafx.fxml;
+	requires javafx.controls;
+	requires javafx.swing;
+}
