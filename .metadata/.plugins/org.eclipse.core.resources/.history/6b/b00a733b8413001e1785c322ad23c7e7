@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+/**
+ * @author DELL
+ *
+ */
+module AimsProject {
+	requires java.desktop;
+	requires javafx.graphics;
+}

@@ -1,0 +1,33 @@
+package application;
+
+import javafx.event.ActionEvent;
+
+import javafx.scene.control.RadioButton;
+import javafx.scene.control.ToggleGroup;
+import javafx.scene.input.MouseEvent;
+import javafx.scene.layout.Pane;
+
+public class PainterController {
+
+
+    private Pane drawingAreaPane;
+
+
+    private RadioButton eraser;
+
+
+    private ToggleGroup identical;
+
+    
+    private RadioButton pen;
+
+    void clearButtonPressed(ActionEvent event) {
+
+    }
+
+    @FXML
+    void drawingAreaMouseDragged(MouseEvent event) {
+
+    }
+
+}
